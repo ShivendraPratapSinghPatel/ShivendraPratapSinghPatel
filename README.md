@@ -1,6 +1,6 @@
 
 <img src= "https://github.com/ShivendraPratapSinghPatel/ShivendraPratapSinghPatel/blob/main/1668320508156.jpg" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-### <h1>
+<h1>
  <p align="center">
 < Bonjour ! Aloha ! Namaste ! >
 </p>
