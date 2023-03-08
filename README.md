@@ -1,5 +1,5 @@
-### < Aloha ! Bonjour ! Namaste ! >
-https://github.com/ShivendraPratapSinghPatel/ShivendraPratapSinghPatel/blob/main/1668320508156.jpg
+###
+<img src= "https://github.com/ShivendraPratapSinghPatel/ShivendraPratapSinghPatel/blob/main/1668320508156.jpg" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 <!--
 **ShivendraPratapSinghPatel/ShivendraPratapSinghPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
